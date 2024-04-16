@@ -71,9 +71,7 @@
  <img src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a> 
  <a href="https://gulpjs.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=pinia" alt="pinia" height="50" /></a>
- <a href="https://gulpjs.com/" target="_blank">
- <img src="https://skillicons.dev/icons?i=vite" alt="vite" height="50" style="margin-left:10px;" /></a>  
-</p>
+
 
 
 <h2>Socials</h2>
