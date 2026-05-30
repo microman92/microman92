@@ -1,7 +1,7 @@
 <img src="/header.png" alt="header" height="300" width="100%">
 
 # Hi there! I'm Mikhail 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==============================================================================================================================
+==============
 
 ### 👨‍💻 Middle Frontend Engineer & Technical Mentor
 ------------------------------------------------------
@@ -45,17 +45,3 @@ I am a dedicated Frontend Developer with over 4 years of experience delivering c
 
 ------------------------------------------------------
 
-## 📊 Git Stats & Activity
-
-### Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microman92&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="400" />
-</p>
-
-------------------------------------------------------
-
-<h3 style="color:red; background-color:rgba(255,0,0,0.1); padding: 10px; border: 1px solid red;">
-⚠️ <b>GitHub Activity Graph Issue:</b> The contribution graph below is not working because it hasn't been configured to access your activity data. For it to display your real contributions, you likely need to set up a specific configuration file (e.g., <code>.github/stats-config.yml</code>) or enable public access to your activity data in your profile settings.
-</h3>
-
-[![microman92's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=microman92&theme=github-compact)](https://github.com/microman92)
