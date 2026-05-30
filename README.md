@@ -1,7 +1,6 @@
 <img src="/header.png" alt="header" height="300" width="100%">
 
 # Hi there! I'm Mikhail 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==============================================================================================================================
 
 ### 👨‍💻 Middle Frontend Engineer & Technical Mentor
 ------------------------------------------------------
@@ -28,18 +27,18 @@ I am a dedicated Frontend Developer with over 4 years of experience delivering c
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="42" height="42" alt="Vue" /></a>  
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="42" height="42" alt="Nuxt 3" /></a>  
 
+<br />
+
 <img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" height="42" />  
 <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" height="42" />  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="42" height="42" alt="TailwindCSS" /></a>  
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="42" height="42" alt="Sass" /></a>  
-
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="42" height="42" alt="Vite" /></a>  
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="42" height="42" alt="Webpack" /></a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" height="42" alt="Git" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="42" height="42" alt="VS Code" /></a>  
-
 <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="42" />  
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="42" height="42" alt="Firebase" /></a>  
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/main/public/icons/skills/firebase-colored.svg" width="42" height="42" alt="Firebase" /></a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" /></a>  
 </p>
 
@@ -54,9 +53,7 @@ I am a dedicated Frontend Developer with over 4 years of experience delivering c
 ## 📊 Git Stats & Activity
 
 <p align="left">
-<a href="https://github.com/microman92" style="margin-right: 20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microman92&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="400" />
-</a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=microman92&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=GitHub%20Stats" alt="Mikhail's GitHub Stats" width="400" />
 </p>
-
-[![microman92's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=microman92&theme=github-compact)](https://github.com/microman92)
