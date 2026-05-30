@@ -38,7 +38,6 @@ I am a dedicated Frontend Developer with over 4 years of experience delivering c
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" height="42" alt="Git" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="42" height="42" alt="VS Code" /></a>  
 <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="42" />  
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/main/public/icons/skills/firebase-colored.svg" width="42" height="42" alt="Firebase" /></a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" alt="Figma" /></a>  
 </p>
 
@@ -49,11 +48,3 @@ I am a dedicated Frontend Developer with over 4 years of experience delivering c
 [![Telegram](https://img.shields.io/badge/-Telegram_Contact-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/JustFront)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%BC-46701b303/)  [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=#FE0175)](http://www.instagram.com/m1cro_man)  [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id57819048)  [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100001674361357)  [![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=#000000)](https://www.github.com/microman92)
 
 ------------------------------------------------------
-
-## 📊 Git Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=microman92&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="400" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=microman92&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=GitHub%20Stats" alt="Mikhail's GitHub Stats" width="400" />
-</p>
