@@ -1,4 +1,4 @@
-<img src="/header.png" alt="header" height="300" width="100%">
+<img src="/header.gif" alt="Mikhail Kudritskiy — Frontend Engineer &amp; Technical Mentor" width="100%">
 
 # Hi there! I'm Mikhail ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
